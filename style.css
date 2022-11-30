@@ -1,0 +1,13 @@
+.card {
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+.flex {
+    display: flex;
+}
+
+.heading {
+    margin-top: 60px;
+    margin-left: 40%;
+}   
